@@ -1,3 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'sinatra', require: 'sinatra/base'
+gem 'sinatra'
+
+#group :development do 
+#  gem "shotgun"
+#  gem "tux"
+#end
